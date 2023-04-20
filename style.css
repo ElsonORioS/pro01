@@ -5,6 +5,9 @@
     padding: 0px;
     margin: 0px;
 }
+ body{
+    margin: auto;
+}
 
 header{
     background-color: rgb(11, 11, 126);
@@ -24,6 +27,7 @@ section{
     text-indent: 1em;
     line-height: 2em;
     background-repeat: no-repeat;
+    margin: ;
 
     
 }
